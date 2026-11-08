@@ -1,0 +1,19 @@
+# Lovable Translate
+
+> Fast, private translation and transcription with multiple AI providers — bring your own API keys or use built-in options.
+
+## Pages
+
+- [Home](/): Product overview and getting started.
+- [Features](/features): Translation and transcription capabilities.
+- [Pricing](/pricing): Plans and usage limits.
+- [Product](/product): Detailed product walkthrough.
+- [Docs](/docs): Developer and user documentation.
+- [Changelog](/changelog): Release notes.
+- [Roadmap](/roadmap): What's coming next.
+- [Status](/status): Service status.
+- [Press](/press): Press and media resources.
+- [About](/about): About the project.
+- [Contact](/contact): Get in touch.
+- [Privacy](/privacy): Privacy policy.
+

@@ -1,0 +1,1 @@
+CREATE POLICY "Admins can view email send state" ON public.email_send_state FOR SELECT TO authenticated USING (EXISTS (SELECT 1 FROM public.user_roles WHERE user_id = auth.uid() AND role = 'admin'));

@@ -1,0 +1,1 @@
+DELETE FROM public.rate_limits WHERE bucket LIKE 'auth_%' OR bucket LIKE 'email_%';
